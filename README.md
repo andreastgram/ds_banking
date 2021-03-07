@@ -29,7 +29,7 @@ There is one notebook in this repository which includes Explonatory Data Analysi
 
 ## Findings <a name="findings"></a>
 
-The main findings of the code can be found at the Medium post available [here](https://iandreas.medium.com/are-you-into-term-deposits-f0958bf86d90)
+The main findings of the code can be found at the **Medium** post available [here](https://iandreas.medium.com/are-you-into-term-deposits-f0958bf86d90)
 
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
